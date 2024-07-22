@@ -1,4 +1,3 @@
-
 # Expo Template with Jotai State Management
 
 ![Expo](https://img.shields.io/badge/expo-^51.0.8-blue)
@@ -10,4 +9,5 @@
 An awesome Expo template with Jotai for state management and React Navigation for seamless navigation between screens.
 Persistant Theme from Tamagui for UI components.
 FlashList + modal instead of FlatList for better performance.
-....
+
+![Demo GIF](https://www.image-heberg.fr/files/17216642573432509070.gif)
